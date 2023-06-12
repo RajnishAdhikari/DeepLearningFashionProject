@@ -5,3 +5,6 @@ You can run this cloud server whenever you want.
 Lambda
 AWS Lambda- This AWS service allows you to run functions in the cloud. The tool is a big cost saver 
 for you as you to pay only when your functions execute.
+
+RDS
+Amazon RDS- This Database AWS service is easy to set up, operate, and scale a relational database in the cloud.
