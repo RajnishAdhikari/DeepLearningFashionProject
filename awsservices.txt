@@ -13,3 +13,8 @@ Amazon RDS- This Database AWS service is easy to set up, operate, and scale a re
 DynamoDB
 Amazon DynamoDB- It is a fast, fully managed NoSQL database service. It is a simple service which allow 
 cost-effective storage and retrieval of data. It also allows you to serve any level of request traffic.
+
+
+SNS
+SNS (Simple Notification Service)— You can use this service to send you notifications in the form of 
+email and SMS based on given AWS services.
