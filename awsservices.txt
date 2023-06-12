@@ -18,3 +18,6 @@ cost-effective storage and retrieval of data. It also allows you to serve any le
 SNS
 SNS (Simple Notification Service)— You can use this service to send you notifications in the form of 
 email and SMS based on given AWS services.
+
+SQS
+SQS (Simple Queue Service)— Use this AWS service to decouple your applications. It is a pull-based service.
