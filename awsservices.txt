@@ -21,3 +21,22 @@ email and SMS based on given AWS services.
 
 SQS
 SQS (Simple Queue Service)— Use this AWS service to decouple your applications. It is a pull-based service.
+
+
+S3
+Amazon S3, or Amazon Simple Storage Service, is a scalable, high-speed, web-based cloud storage service.
+It offers industry-leading scalability, data availability, security, and performance. Customers of all 
+sizes can use Amazon S3 to store and protect any amount of data for a range of use cases, such as data lakes, 
+websites, mobile applications, backup and restore, archive, enterprise applications, IoT devices, and big data 
+analytics.
+In short, Amazon S3 is a reliable and secure way to store your data in the cloud.
+Here are some of the key features of Amazon S3:
+
+Scalability: Amazon S3 is designed to scale to meet your needs, whether you're storing a few gigabytes or 
+petabytes of data.
+High speed: Amazon S3 provides high-speed access to your data, so you can access it when you need it.
+Security: Amazon S3 is secure by default, and you can add additional security features to meet your specific needs.
+Performance: Amazon S3 provides consistent performance, so you can be confident that your data will be available 
+when you need it.
+If you're looking for a reliable and secure way to store your data in the cloud, Amazon S3 is a great option.
+
