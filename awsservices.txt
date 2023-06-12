@@ -167,3 +167,38 @@ Elastic Load Balancing: Elastic Load Balancing is a service that distributes tra
 AWS EC2 is a powerful and flexible service that can be used to run a wide variety of applications. 
 If you're looking for a scalable, cost-effective, secure, and reliable way to run applications in the cloud, 
 then AWS EC2 is a great option.
+
+
+
+
+
+AWS BATCH SIMPLE EXPLAINATION
+Let's explain AWS Batch to a kid using a simple example:
+
+Imagine you love baking cookies and want to bake a large batch of cookies for a bake sale. But instead of baking them one by one, you want to bake many cookies at the same time to save time and effort. AWS Batch is like a magical oven that helps you bake a big batch of cookies quickly and efficiently!
+
+Here's how AWS Batch works:
+
+1. Cookie Ingredients:
+   - First, you gather all the ingredients you need to make your cookies, like flour, sugar, eggs, and chocolate chips. These are like the tasks or jobs you want to complete.
+
+2. Mixing the Dough:
+   - Next, you mix all the ingredients together to make a cookie dough. In AWS Batch, you create a "job definition" that describes how each cookie should be made, including the steps and requirements.
+
+3. Dividing the Dough into Batches:
+   - Now, instead of baking all the cookies at once, you divide your dough into smaller batches. Each batch contains a certain number of cookies. In AWS Batch, these batches are called "job queues."
+
+4. Baking in the Magical Oven:
+   - Once you have your dough divided into batches, you put each batch into the magical oven, which is AWS Batch. The oven knows how to bake the cookies following the instructions in the job definition.
+
+5. Scaling Up the Oven:
+   - The magical oven is very smart! It can automatically adjust its size based on how many cookies you want to bake. If you have a lot of cookies to bake, the oven gets bigger to handle the workload quickly.
+
+6. Enjoying the Freshly Baked Cookies:
+   - As the oven bakes each batch of cookies, it keeps track of which ones are done. When a batch is ready, it takes them out and lets you know. You can then enjoy the freshly baked cookies!
+
+So, with AWS Batch, you can take your big task of baking many cookies and break it down into smaller batches. The magical oven, or AWS Batch, helps you bake those batches simultaneously, saving you time and effort. It automatically adjusts its size to handle the workload efficiently.
+
+In the same way, AWS Batch helps people in the tech world run many tasks or jobs at the same time. It breaks down big tasks into smaller pieces and runs them efficiently on powerful computers in the cloud. This way, people can complete their work faster and get results quickly.
+
+Remember, AWS Batch is like a magical oven that helps you bake a big batch of cookies quickly and easily!
