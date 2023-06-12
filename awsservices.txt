@@ -231,3 +231,12 @@ and scale applications.
 * **Improved security:** PaaS providers typically have a team of security experts who are responsible for 
 securing the platform. This can help businesses to reduce the risk of data breaches.
 
+Here are some of the challenges of using PaaS:
+
+* **Vendor lock-in:** If a business becomes too reliant on a particular PaaS provider, it may be difficult 
+to switch to a different provider in the future.
+* **Limited customization:** PaaS providers typically offer a limited degree of customization, which may 
+not be enough for some businesses.
+* **Security risks:** PaaS providers are responsible for securing the platform, but businesses still need 
+to take steps to protect their data.
+
