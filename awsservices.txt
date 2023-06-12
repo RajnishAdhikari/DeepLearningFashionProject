@@ -1,3 +1,7 @@
 ec2 
 EC2(Elastic Compute Cloud)- EC2 is a virtual machine in the cloud on which you have OS level control. 
 You can run this cloud server whenever you want.
+
+Lambda
+AWS Lambda- This AWS service allows you to run functions in the cloud. The tool is a big cost saver 
+for you as you to pay only when your functions execute.
