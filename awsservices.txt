@@ -8,3 +8,8 @@ for you as you to pay only when your functions execute.
 
 RDS
 Amazon RDS- This Database AWS service is easy to set up, operate, and scale a relational database in the cloud.
+
+
+DynamoDB
+Amazon DynamoDB- It is a fast, fully managed NoSQL database service. It is a simple service which allow 
+cost-effective storage and retrieval of data. It also allows you to serve any level of request traffic.
