@@ -113,3 +113,22 @@ Here are some of the challenges of using batch jobs:
 
 Overall, batch jobs can be a valuable tool for businesses and individuals. However, it is important to carefully 
 consider the benefits and challenges of using batch jobs before implementing them.
+
+
+
+LAMBDA 
+AWS Lambda is a serverless compute service that lets you run code without provisioning or managing servers. 
+Lambda scales your code automatically, so you can focus on building great applications and not worry about 
+infrastructure. 
+
+Here are some of the benefits of using AWS Lambda:
+
+* **Cost-effectiveness:** You only pay for the compute time you use, so you can save money on running applications 
+that are only used occasionally.
+* **Scalability:** Lambda can scale your code automatically to meet demand, so you don't have to worry about your 
+applications crashing or becoming unresponsive.
+* **Security:** Lambda is a secure platform that uses Amazon Web Services' infrastructure to protect your data.
+* **Ease of use:** Lambda is easy to use and can be integrated with other AWS services.
+
+If you're looking for a serverless compute service that is cost-effective, scalable, secure, and easy to use, 
+then AWS Lambda is a great option.
